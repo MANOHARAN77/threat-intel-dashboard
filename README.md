@@ -76,6 +76,9 @@ Helps security teams:
 - Accelerate threat triage
 
 ---
+RESULT:
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/7c83dd1e-484a-48ad-9712-eeea9f8d619c" />
+
 
 ## 👨‍💻 Author
 
